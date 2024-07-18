@@ -14,7 +14,7 @@ FreeGPT4.0APIKEY 中转 点击了解👉🏻 <a href="https://oneapi.huinong.co"
 哔哩哔哩使用教程：<a href="https://www.bilibili.com/video/BV1aN411z7Kt/?share_source=copy_web&vd_source=0a70e7845129738934f93c76a8fac0a6">什么是OneAPI？ 我们怎么使用GPTech API</a>  
 YouTube使用教程：<a href="https://youtu.be/az6RabCuv8Y">OpenAI 中转3.5 和 4.0 APIKey 使用 OneAPI怎么操作 GPTech API的操作流程</a>  
 
-# 我们目前支持AI模型有:
+# 支持AI模型有:
 gpt-4  
 gpt-4-0314  
 gpt-4-0613
@@ -30,7 +30,13 @@ text-embedding-ada-002 等所有3.5模型
 支持DALL-E图片生成  
 Claude-2-100k  
 Claude-instant  
-Midjourney AI画图   
+claude-3-5-sonnet-20240620
+claude-3-haiku-20240307
+claude-3-sonnet-20240229
+claude-3-opus-20240229
+gpt-4o
+
+模型不断更新中，具体请前往api站点查看
 
 # 注意：
 根据最新《生成式人工智能服务管理暂行办法》中提及内容生成式人工智能AI必须对其网站、算法以及训练模型合法备案供者应当明确并公开其服务的适用人群、场合、用途，指导使用者科学理性认识和依法使用生成式人工智能技术，采取有效措施防范未成年人用户过度依赖或者沉迷生成式人工智能服务，按要求对训练数据来源、规模、类型、标注规则、算法机制机理等予以说明，并提供必要的技术、数据等支持和协助。  
