@@ -92,7 +92,7 @@ v免签二开源码含SDK+挂机软件。
 带安装对接以上支付接口！
 您只需提供服务器信息、域名信息、收款二维码、usdt钱包地址即可！
 
-<a href="https://wp.huinong.co/index.php/product/2023v_pay/">点击联系我们</a></br>
+<a href="https://home.huinong.co">点击联系我们</a></br>
 
 # 梯子🪜 VPN 支持ChatGPT 谷歌 youtube等绝大部分外网 稳定用chatGPT
 
